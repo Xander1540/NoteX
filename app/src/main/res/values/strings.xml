@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesX</string>
+    <string name="text1">Empty Nodes!</string>
+    <string name="text2">Nothing Found!</string>
+    <string name="btntext">Create a Note!</string>
+    <string name="sign">THE X COMPANY</string>
+    <string name="title">Title</string>
+</resources>
